@@ -4,6 +4,11 @@
   src: url(../fonts/FontsFree-Net-CircularStd-Bold.ttf);
 }
 
+.watchScreen {
+  font-family: circularStdBold;
+  color: #FFFFFF;
+}
+
 /*animation */
 @keyframes blinking {
   0% {
